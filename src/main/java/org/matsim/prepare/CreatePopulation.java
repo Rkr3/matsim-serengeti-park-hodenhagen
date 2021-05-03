@@ -45,7 +45,7 @@ import java.util.Random;
  * @author ikaddoura
  *
  */
-public class CreatePopulation {
+public class 	CreatePopulation {
 
 	private static final Logger log = Logger.getLogger(CreatePopulation.class);
 
